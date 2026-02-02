@@ -26,3 +26,4 @@ $string['pluginname'] = 'Speech to Text';
 $string['buttontitle'] = 'Speech to Text';
 $string['privacy:metadata'] = 'The Speech to Text plugin does not store any personal data.';
 $string['helplinktext'] = 'Speech to Text';
+$string['previewtitle'] = 'Speech Preview';
